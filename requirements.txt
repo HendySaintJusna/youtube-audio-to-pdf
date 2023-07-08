@@ -1,0 +1,5 @@
+moviepy==1.0.3
+SpeechRecognition==3.10.0
+fpdf==1.7.2
+pydub==0.25.1
+yt_dlp==2023.7.6
